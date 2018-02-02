@@ -92,7 +92,7 @@ img::-moz-selection {
 #mainNav .navbar-brand {
   font-weight: 700;
   text-transform: uppercase;
-  color: #4db6ac;
+  color: #444;
   font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 
@@ -182,7 +182,7 @@ header.masthead hr {
   margin-bottom: 30px;
 }
 
-header.masthead h1 {
+header.masthead h1, .lead-big{
   font-size: 2rem;
 }
 
@@ -203,13 +203,13 @@ header.masthead p {
     padding-top: 0;
     padding-bottom: 0;
   }
-  header.masthead h1 {
+  header.masthead h1, .lead-big {
     font-size: 3rem;
   }
 }
 
 @media (min-width: 1200px) {
-  header.masthead h1 {
+  header.masthead h1, .lead-big {
     font-size: 4rem;
   }
 }
