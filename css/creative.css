@@ -15,7 +15,7 @@ hr {
 }
 
 hr.light {
-  border-color: #fff;
+  border-color: #4db6ac;
 }
 
 a {
@@ -39,7 +39,7 @@ h6 {
 }
 
 .bg-primary {
-  background-color: #4db6ac !important;
+  background-color: #444 !important;
 }
 
 .bg-dark {
