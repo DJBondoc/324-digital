@@ -1,2 +1,2 @@
 # 324-digital
-Personal website customized with the MaterializeCSS framework
+Personal website customized with the Bootstrap framework
